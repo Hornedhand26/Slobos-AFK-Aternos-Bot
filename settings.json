@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mcrurich.aternos.me",
+    "ip": "0",
     "port": 55701,
     "version": "",
     "try-creative": false
